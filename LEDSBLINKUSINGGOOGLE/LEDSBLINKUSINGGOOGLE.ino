@@ -8,10 +8,6 @@
 //Connect +ive of LEDs and -ive to GRD
 //Upload the code to ESP 32
 
-
-
-
-
 #include <Arduino.h>
 #include <WiFi.h>
 #include "SinricPro.h"
